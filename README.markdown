@@ -1,5 +1,5 @@
 # Tribute Page Project - Langston Hughes
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/k-leecodes/pen/wvPogNq](https://codepen.io/k-leecodes/pen/wvPogNq).
+A tribute page I built on Langston Hughes, including a timeline of his life and accomplishments before, during and after the renaissace era.
+My Original URL: [https://codepen.io/k-leecodes/pen/wvPogNq](https://codepen.io/k-leecodes/pen/wvPogNq).
 
 
